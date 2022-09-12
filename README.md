@@ -1,2 +1,2 @@
 # PORTAFOLIO
-No esta terminado
+Não esta terminado ainda
